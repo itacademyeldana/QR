@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'GoodDog Plain';
+    src: url(../fonts/GoodDogPlain.eot);
+    src: url(../fonts/GoodDogPlain.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/GoodDogPlain.woff2) format('woff2'),
+    url(../fonts/GoodDogPlain.woff) format('woff'),
+    url(../fonts/GoodDogPlain.ttf) format('truetype'),
+    url(../fonts/GoodDogPlain.svg#GoodDogPlain) format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url(../fonts/EffraTrial-Bold.eot);
+    src: url(../fonts/EffraTrial-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/EffraTrial-Bold.woff2) format('woff2'),
+    url(../fonts/EffraTrial-Bold.woff) format('woff'),
+    url(../fonts/EffraTrial-Bold.ttf) format('truetype'),
+    url(../fonts/EffraTrial-Bold.svg#EffraTrial-Bold) format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url(../fonts/EffraTrial-Regular.eot);
+    src: url(../fonts/EffraTrial-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/EffraTrial-Regular.woff2) format('woff2'),
+    url(../fonts/EffraTrial-Regular.woff) format('woff'),
+    url(../fonts/EffraTrial-Regular.ttf) format('truetype'),
+    url(../fonts/EffraTrial-Regular.svg#EffraTrial-Regular) format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra Trial';
+    src: url(../fonts/EffraTrial-Black.eot);
+    src: url(../fonts/EffraTrial-Black.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/EffraTrial-Black.woff2) format('woff2'),
+    url(../fonts/EffraTrial-Black.woff) format('woff'),
+    url(../fonts/EffraTrial-Black.ttf) format('truetype'),
+    url(../fonts/EffraTrial-Black.svg#EffraTrial-Black) format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.eot);
+    src: url(../fonts/Roboto-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Roboto-Regular.woff2) format('woff2'),
+    url(../fonts/Roboto-Regular.woff) format('woff'),
+    url(../fonts/Roboto-Regular.ttf) format('truetype'),
+    url(../fonts/Roboto-Regular.svg#Roboto-Regular) format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter-Medium.eot);
+    src: url(../fonts/Inter-Medium.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Inter-Medium.woff2) format('woff2'),
+    url(../fonts/Inter-Medium.woff) format('woff'),
+    url(../fonts/Inter-Medium.ttf) format('truetype'),
+    url(../fonts/Inter-Medium.svg#Inter-Medium) format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
